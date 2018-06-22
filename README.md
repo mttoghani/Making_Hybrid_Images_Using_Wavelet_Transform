@@ -1,3 +1,11 @@
 # Making_Hybrid_Images_Using_Wavelet_Transform
 
-![alt text](https://www.toysonfire.ca/i/60248_293c4d0/link-twilight-princess-ver-319-60248.jpg)
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Wavelet1D.jpg)
+
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Wavelet2D.jpg)
+
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Block_diagram.jpg)
+
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Example.jpg)
+
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Hybrid.jpg)
