@@ -8,4 +8,4 @@
 
 ![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Example.jpg)
 
-![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Results/Section3/Hybrid_Image.jpg)
+![alt text](https://github.com/mttoghani/Making_Hybrid_Images_Using_Wavelet_Transform/blob/master/Hybrid_Image.png)
